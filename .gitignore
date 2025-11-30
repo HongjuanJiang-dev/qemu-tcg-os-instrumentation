@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.so
+*.dylib
+*.swp
+build/
+__pycache__/
+.ipynb_checkpoints/
+*.log
